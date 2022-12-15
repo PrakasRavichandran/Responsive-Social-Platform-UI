@@ -7,9 +7,6 @@ Responsive Social Platform UI using CSS only
 * HTML
 * CSS
 
-## Live Link 
-
-https://peter-kimanzi.github.io/Responsive-Social-Platform-UI/
 
 ## Screenshots
 
